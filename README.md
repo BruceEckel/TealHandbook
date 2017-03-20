@@ -1,4 +1,4 @@
-# TealHandbook
+# The Teal Organization Handbook
 
 ## Introduction
 
